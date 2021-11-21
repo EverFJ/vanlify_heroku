@@ -1,32 +1,32 @@
 {
-    "files": {
-        "main.css": "/static/css/main.d35a8eaf.chunk.css",
-        "main.js": "/static/js/main.b794b183.chunk.js",
-        "main.js.map": "/static/js/main.b794b183.chunk.js.map",
-        "runtime-main.js": "/static/js/runtime-main.32717a7f.js",
-        "runtime-main.js.map": "/static/js/runtime-main.32717a7f.js.map",
-        "static/css/2.b57b7cfd.chunk.css": "/static/css/2.b57b7cfd.chunk.css",
-        "static/js/2.16d1bccb.chunk.js": "/static/js/2.16d1bccb.chunk.js",
-        "static/js/2.16d1bccb.chunk.js.map": "/static/js/2.16d1bccb.chunk.js.map",
-        "static/js/3.3807953f.chunk.js": "/static/js/3.3807953f.chunk.js",
-        "static/js/3.3807953f.chunk.js.map": "/static/js/3.3807953f.chunk.js.map",
-        "index.html": "/index.html",
-        "static/css/2.b57b7cfd.chunk.css.map": "/static/css/2.b57b7cfd.chunk.css.map",
-        "static/css/main.d35a8eaf.chunk.css.map": "/static/css/main.d35a8eaf.chunk.css.map",
-        "static/js/2.16d1bccb.chunk.js.LICENSE.txt": "/static/js/2.16d1bccb.chunk.js.LICENSE.txt",
-        "static/media/App.css": "/static/media/AppBackground1.06690592.jpg",
-        "static/media/Camping.a07faee6.jpg": "/static/media/Camping.a07faee6.jpg",
-        "static/media/LoginBackground.07994231.jpg": "/static/media/LoginBackground.07994231.jpg",
-        "static/media/ParkingArea.3e05f5dd.jpg": "/static/media/ParkingArea.3e05f5dd.jpg",
-        "static/media/PlacetoVisit.1f746e34.jpg": "/static/media/PlacetoVisit.1f746e34.jpg",
-        "static/media/Wilderness.322849fc.jpg": "/static/media/Wilderness.322849fc.jpg",
-        "static/media/userImage.c76f110a.jpg": "/static/media/userImage.c76f110a.jpg"
-    },
-    "entrypoints": [
-        "static/js/runtime-main.32717a7f.js",
-        "static/css/2.b57b7cfd.chunk.css",
-        "static/js/2.16d1bccb.chunk.js",
-        "static/css/main.d35a8eaf.chunk.css",
-        "static/js/main.b794b183.chunk.js"
-    ]
+  "files": {
+    "main.css": "/static/css/main.6ec8b8c2.chunk.css",
+    "main.js": "/static/js/main.b8158293.chunk.js",
+    "main.js.map": "/static/js/main.b8158293.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.983fe387.js",
+    "runtime-main.js.map": "/static/js/runtime-main.983fe387.js.map",
+    "static/css/2.b57b7cfd.chunk.css": "/static/css/2.b57b7cfd.chunk.css",
+    "static/js/2.d23ace3d.chunk.js": "/static/js/2.d23ace3d.chunk.js",
+    "static/js/2.d23ace3d.chunk.js.map": "/static/js/2.d23ace3d.chunk.js.map",
+    "static/js/3.2edb2a36.chunk.js": "/static/js/3.2edb2a36.chunk.js",
+    "static/js/3.2edb2a36.chunk.js.map": "/static/js/3.2edb2a36.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.b57b7cfd.chunk.css.map": "/static/css/2.b57b7cfd.chunk.css.map",
+    "static/css/main.6ec8b8c2.chunk.css.map": "/static/css/main.6ec8b8c2.chunk.css.map",
+    "static/js/2.d23ace3d.chunk.js.LICENSE.txt": "/static/js/2.d23ace3d.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/AppBackground1.06690592.jpg",
+    "static/media/Camping.a07faee6.jpg": "/static/media/Camping.a07faee6.jpg",
+    "static/media/LoginBackground.07994231.jpg": "/static/media/LoginBackground.07994231.jpg",
+    "static/media/ParkingArea.3e05f5dd.jpg": "/static/media/ParkingArea.3e05f5dd.jpg",
+    "static/media/PlacetoVisit.1f746e34.jpg": "/static/media/PlacetoVisit.1f746e34.jpg",
+    "static/media/Wilderness.322849fc.jpg": "/static/media/Wilderness.322849fc.jpg",
+    "static/media/userImage.c76f110a.jpg": "/static/media/userImage.c76f110a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.983fe387.js",
+    "static/css/2.b57b7cfd.chunk.css",
+    "static/js/2.d23ace3d.chunk.js",
+    "static/css/main.6ec8b8c2.chunk.css",
+    "static/js/main.b8158293.chunk.js"
+  ]
 }
