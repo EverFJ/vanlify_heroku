@@ -6,10 +6,7 @@ const app = express();
 const path = require("path");
 const cors = require("cors");
 const mongoose = require("mongoose");
-const {
-    PORT,
-    URI
-} = process.env;
+const { PORT, URI } = process.env;
 const userRoutes = require("./routes/userRoutes");
 const locationRoutes = require("./routes/locationRoutes");
 
@@ -24,6 +21,7 @@ app.use("/", express.static(path.join(__dirname, "public")));
 app.use("/images", express.static(path.join(__dirname, "images")));
 app.use("/users", userRoutes);
 app.use("/locations", locationRoutes);
+app.get("*", (req, res) => res.redirect("/"));
 
 if (!PORT || !URI) {
     console.log(
