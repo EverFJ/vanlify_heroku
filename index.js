@@ -4,12 +4,13 @@ require("dotenv").config({
 const express = require("express");
 const app = express();
 const path = require("path");
+const http = require("http");
+const server = http.createServer();
 const cors = require("cors");
 const mongoose = require("mongoose");
 const { PORT, URI } = process.env;
 const userRoutes = require("./routes/userRoutes");
 const locationRoutes = require("./routes/locationRoutes");
-
 app.use(cors());
 app.use(express.json());
 app.use(
